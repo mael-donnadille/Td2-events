@@ -1,0 +1,13 @@
+L’événement : click
+Cible : h1
+Action associée : affichage d’un message dans la console
+
+Cible : paragraphe p1
+L’événement : click
+Cible : paragraphe p1
+Action : affichage d’un message dans la console
+
+Exemple 3 :
+L’événement : click
+Cible : bouton mask
+Action : masquer l’image
