@@ -1,8 +1,8 @@
-const cible = document.querySelector('h1#titre');
-cible.addEventListner(clic, 'action');
-function action( ) {
- console.log(event.target);
-}
+//const cible = document.querySelector('h1#titre');
+//cible.addEventListner(clic, 'action');
+//function action( ) {
+// console.log(event.target);
+//}
 
 
 // correction
